@@ -23,7 +23,6 @@
   },
   "parserOptions": {
     // add these parser options
-    // "tsconfigRootDir": "/home/renato/SvelteDev/vite-svelte-ts-tailwind/",
     "project": ["./tsconfig.json"],
     "extraFileExtensions": [".svelte"]
   },
